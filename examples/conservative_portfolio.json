@@ -1,0 +1,39 @@
+{
+  "portfolio": {
+    "VOO": {
+      "weight": 40.0,
+      "type": "ETF",
+      "name": "Vanguard S&P 500"
+    },
+    "QQQ": {
+      "weight": 20.0,
+      "type": "ETF",
+      "name": "Nasdaq-100"
+    },
+    "VEA": {
+      "weight": 15.0,
+      "type": "ETF",
+      "name": "Developed Markets"
+    },
+    "VWO": {
+      "weight": 10.0,
+      "type": "ETF",
+      "name": "Emerging Markets"
+    },
+    "BND": {
+      "weight": 10.0,
+      "type": "ETF",
+      "name": "Total Bond Market"
+    },
+    "GLD": {
+      "weight": 5.0,
+      "type": "Commodity",
+      "name": "Gold"
+    }
+  },
+  "settings": {
+    "start_date": "2015-01-01",
+    "end_date": "auto",
+    "initial_capital": 50000
+  }
+}
