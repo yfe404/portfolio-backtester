@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual Environment
+venv/
+ENV/
+env/
+*.venv
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+*.png
+*.jpg
+*.csv
+*.xlsx
+*.log
+portfolio_analysis.png
+results/
+output/
+
+# Config overrides
+my_portfolio.json
+custom_config.json
+*.bak
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb

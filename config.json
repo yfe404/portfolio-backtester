@@ -1,0 +1,79 @@
+{
+  "portfolio": {
+    "SPY": {
+      "weight": 21.08,
+      "type": "ETF",
+      "name": "S&P 500"
+    },
+    "NVDA": {
+      "weight": 11.26,
+      "type": "Stock",
+      "name": "Nvidia"
+    },
+    "QQQ": {
+      "weight": 4.44,
+      "type": "ETF",
+      "name": "US Tech (Nasdaq-100)"
+    },
+    "MSFT": {
+      "weight": 3.99,
+      "type": "Stock",
+      "name": "Microsoft"
+    },
+    "MCHI": {
+      "weight": 2.88,
+      "type": "ETF",
+      "name": "MSCI China Index"
+    },
+    "VT": {
+      "weight": 2.62,
+      "type": "ETF",
+      "name": "Vanguard Total World"
+    },
+    "VPL": {
+      "weight": 2.22,
+      "type": "ETF",
+      "name": "Asia Pacific ex Japan"
+    },
+    "GLD": {
+      "weight": 2.00,
+      "type": "Commodity",
+      "name": "SPDR Gold Trust"
+    },
+    "IAU": {
+      "weight": 1.25,
+      "type": "Commodity",
+      "name": "iShares Gold Trust"
+    },
+    "MONC.MI": {
+      "weight": 0.92,
+      "type": "Stock",
+      "name": "Moncler"
+    },
+    "TSLA": {
+      "weight": 0.88,
+      "type": "Stock",
+      "name": "Tesla"
+    },
+    "VWO": {
+      "weight": 0.35,
+      "type": "ETF",
+      "name": "Emerging Markets"
+    },
+    "BABA": {
+      "weight": 0.25,
+      "type": "Stock",
+      "name": "Alibaba"
+    },
+    "RMS.PA": {
+      "weight": 0.19,
+      "type": "Stock",
+      "name": "Hermes"
+    }
+  },
+  "settings": {
+    "start_date": "2020-01-01",
+    "end_date": "auto",
+    "initial_capital": 100000
+  }
+}
